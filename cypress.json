@@ -1,0 +1,12 @@
+{
+  "projectId": "pnudks",
+  "chromeWebSecurity": false,
+  "viewportWidth": 1440,
+  "viewportHeight": 900,
+  "baseUrl": "https://preprodcore2.jacksondawson.com/Ford/SystemsSellingCPM/Fesite/",
+  "reporter": "mocha-junit-reporter",
+  "reporterOptions": {
+    "mochaFile": "cypress/reports/junit/test-results.[hash].xml",
+    "testsuitesTitle": false
+  }
+}
